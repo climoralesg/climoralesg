@@ -1,5 +1,5 @@
 ### Hola! Que bien verte por acá! 👋
-<img align="right" src="https://github.com/climoralesg/climoralesg/blob/master/readme.gif" />
+<img align="right" src="https://github.com/climoralesg/climoralesg/blob/master/readme.gif" height="450px" />
 <p>
   <a target="_blank" href="mailto:climoralesg@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-46a2f1.svg?&style=flat-square&logo=Gmail&logoColor=white" />
@@ -14,6 +14,7 @@
 
 Mi nombre es **Claudio**, y Bienvenido a mi perfil GitHub!
 
+- 🖥️ Backend Developer 
 - 🌱 Actualmente estoy estudiando**[NodeJS](https://nodejs.org/)** y profundizando en  `JS`;
 -  <img title="Chile" alt="Chile" src="https://image.flaticon.com/icons/svg/197/197586.svg" width="14"/> Soy de Chile
 - ⚡ Me gustan los video juegos, la electronica y la programacion ...
