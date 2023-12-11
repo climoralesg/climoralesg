@@ -16,12 +16,7 @@ Mi nombre es **Claudio**, y Bienvenido a mi perfil GitHub!
 
 - 🖥️ Backend Developer 
 - 🌱 Actualmente estoy estudiando**[NodeJS](https://nodejs.org/)** y profundizando en  `JS`;
--  <img title="Chile" alt="Chile" src="https://image.flaticon.com/icons/svg/197/197586.svg" width="14"/> Soy de Chile
 - ⚡ Me gustan los video juegos, la electronica y la programacion ...
-<h4>📚 Actualmente leyendo</h4>
-<ul>
-  <li>Robert C. Martin <b>Clean Code</b> <a target="_blank" href="https://www.amazon.com/-/es/Robert-C-Martin/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
-</ul>
 
 <h4>🛠 Skills</h4>
 <ul>
