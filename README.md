@@ -7,9 +7,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/climoralesg/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2346a2f1.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/mclaudioi/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
 </p>
 
 Mi nombre es **Claudio**, y Bienvenido a mi perfil GitHub!
