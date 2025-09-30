@@ -1,3 +1,10 @@
+<!-- https://github.com/ShahriarShafin/ -->
+<!-- April 15, 2021 -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+
+<!-- Profile Views Counter -->
+<!--![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)-->
+
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hola a todos!, Soy
@@ -80,32 +87,31 @@
     </p>
 </samp>
 
+<!-- Featured Repositories -->
+#### Algunos proyectos
+
+<p align="center">
+  <a href="https://github.com/climoralesg/jwt-auth">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=jwt-auth&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/climoralesg/password-generator">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=password-generator&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/climoralesg/climoralesg-socket-chat-server">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=climoralesg-socket-chat-server&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/climoralesg/api-regiones-provincias-comunas-Chile">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=api-regiones-provincias-comunas-Chile&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/climoralesg/climoralesg/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/climoralesg/climoralesg/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/climoralesg/climoralesg/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- Featured Repositories -->
-#### Algunos proyectos
-<p align="center">
-<a href="https://github.com/climoralesg/jwt-auth">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=jwt-auth&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/climoralesg/password-generator">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=password-generator
-&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/climoralesg/climoralesg-socket-chat-server">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=climoralesg-socket-chat-server
-&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/climoralesg/api-regiones-provincias-comunas-Chile">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=climoralesg&repo=api-regiones-provincias-comunas-Chile&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
